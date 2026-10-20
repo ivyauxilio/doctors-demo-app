@@ -102,11 +102,11 @@ const navItems: NavItem[] = [
   
   ...(isDoctorOrAdmin
       ? [
-          {
-            icon: <CircleUserRound />,
-            name: "Create account",
-            path: "/createuser",
-          },
+          // {
+          //   icon: <CircleUserRound />,
+          //   name: "Create account",
+          //   path: "/createuser",
+          // },
           { icon: <PageIcon />, name: "Logs", path: "/logs" },
         ]
       : []),

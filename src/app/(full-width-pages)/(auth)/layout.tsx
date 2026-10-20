@@ -30,7 +30,7 @@ export default function AuthLayout({
                   /> */}
                     <Image
                       className="flex-shrink-0"
-                      src="/images/logo/drenesio.jpg"
+                      src="/images/logo/dcilogo2.png"
                       alt="Logo"
                       width={200}
                       height={100}

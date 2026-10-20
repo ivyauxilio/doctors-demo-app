@@ -85,10 +85,10 @@ const AppHeader: React.FC = () => {
 
           <Link href="/" className="lg:hidden flex block mb-4">
             <Image
-              width={154}
+              width={50}
               height={32}
               className="dark:hidden"
-              src="./images/logo/logo.svg"
+              src="./images/logo/logo-icon.svg"
               alt="Logo"
             />
                 {/* <Image
@@ -102,7 +102,7 @@ const AppHeader: React.FC = () => {
                                     Dr. Enesio
                                   </h1> */}
             <Image
-              width={154}
+              width={50}
               height={32}
               className="hidden dark:block"
               src="./images/logo/logo-dark.svg"
